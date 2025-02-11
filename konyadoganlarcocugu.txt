@@ -1,5 +1,4 @@
 <div style="display: none;">
-  <!-- Mevcut bağlantılar -->
   <a href="https://sezergroup.com/" title="betine">betine</a>
   <a href="https://www.iznikaskania.com/" title="betlike">betlike</a>
   <a href="https://coiltech.com.tr/" title="bahisal">bahisal</a>
